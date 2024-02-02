@@ -66,14 +66,15 @@ it is used to select heading level
 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, <br> mollitia! Facilis, eos possimus officia nemo eveniet vitae? Voluptas, <br><br><br>adipisci numquam.</p>
 ```
 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, <br> mollitia! Facilis, eos possimus officia nemo eveniet vitae? Voluptas, <br><br><br>adipisci numquam.</p>
+
 # image tage 
+
 ```
 <img src="lion.jpeg" alt="lione immage" width="104" height="142">
 ```
 <img src="lion.jpeg" alt="lione immage" width="104" height="142">
 
 # image as a link
-
 <a href="https://www.w3schools.com/html/">
-        <img src="image-url.jpg" alt="Description of the image" width="104" height="142">
+        <img src="image-url.jpeg" alt="Description of the image" width="104" height="142">
 </a>
