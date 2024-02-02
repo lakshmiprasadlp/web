@@ -97,9 +97,7 @@ it is used to select heading level
     </p>
     <pre>
      Dear Sir,
-
      Thooo.
-
      Thank You
     </pre>
 ```
