@@ -76,5 +76,5 @@ it is used to select heading level
 
 # image as a link
 <a href="https://www.w3schools.com/html/">
-        <img src="image-url.jpeg" alt="Description of the image" width="104" height="142">
+        <img src="lion.jpeg" alt="Description of the image" width="104" height="142">
 </a>
