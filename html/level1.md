@@ -75,6 +75,78 @@ it is used to select heading level
 <img src="lion.jpeg" alt="lione immage" width="104" height="142">
 
 # image as a link
+
+```
 <a href="https://www.w3schools.com/html/">
         <img src="lion.jpeg" alt="Description of the image" width="104" height="142">
 </a>
+```
+
+<a href="https://www.w3schools.com/html/">
+        <img src="lion.jpeg" alt="Description of the image" width="104" height="142">
+</a>
+
+
+# p tag vs pre tage 
+
+```
+<p>
+        Dear Sir,
+
+        Thooo.
+   
+        Thank You
+    </p>
+    <pre>
+     Dear Sir,
+
+     Thooo.
+
+     Thank You
+    </pre>
+```
+
+<p>
+        Dear Sir,
+
+        Thooo.
+   
+        Thank You
+</p>
+<pre>
+     Dear Sir,
+
+     Thooo.
+
+     Thank You
+</pre>
+
+
+# sup-sub 
+
+```
+<p>
+        (a+b)2 = a2 + b2 + 2ab
+    </p>
+    <p>
+        (a+b)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + 2ab
+    </p>
+    <p>
+        CH4 + O2 = H20 + CO2
+    </p>
+    <p>
+        CH<sub>4</sub> + O<sub>2</sub> = H<sub>2</sub>0 + CO<sub>2</sub>
+    </p>
+```
+<p>
+        (a+b)2 = a2 + b2 + 2ab
+    </p>
+    <p>
+        (a+b)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + 2ab
+    </p>
+    <p>
+        CH4 + O2 = H20 + CO2
+    </p>
+    <p>
+        CH<sub>4</sub> + O<sub>2</sub> = H<sub>2</sub>0 + CO<sub>2</sub>
+    </p>
