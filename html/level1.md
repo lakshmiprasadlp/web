@@ -46,5 +46,17 @@ it is used to select heading level
 <big>This is big text</big><hr>
 <small>this is small text</small
  ```
-<big>This is big text</big><hr>
-<small>this is small text</small
+ <big>This is big text</big><hr>
+    <small>this is small text</small>
+ # bould italic unerline AND scrach
+ ```
+<b>KnowledgeGate</b><hr>
+<i>Website</i><hr>
+<u>YouTube</u><hr>
+<s>course</s>
+```
+
+<b>KnowledgeGate</b><hr>
+<i>Website</i><hr>
+<u>YouTube</u><hr>
+<s>course</s>
