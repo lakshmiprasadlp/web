@@ -36,6 +36,15 @@ it is used to select heading level
 
 # ancker tag
 ``` 
-<a href="https://www.knowledgegate.in/">Knowledge Gate</a>
+<a href="https://www.w3schools.com/html//">w3 HTML</a>
 ```
- <a href="https://www.knowledgegate.in/">Knowledge Gate</a>
+ <a href="https://www.w3schools.com/html/">Knowledge Gate</a>
+ 
+ # BIG AND SMALL
+
+ ```
+<big>This is big text</big><hr>
+<small>this is small text</small
+ ```
+<big>This is big text</big><hr>
+<small>this is small text</small
